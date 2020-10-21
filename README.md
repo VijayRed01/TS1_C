@@ -13,3 +13,5 @@ once the application starts
 2) click upload
 
 3) then double click the video name in the list box
+
+*note : package folder not included if required will upload
